@@ -1,0 +1,2 @@
+# DIscordStatusRPC
+DiscordStatus
